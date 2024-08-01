@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="61a0d33d-6d61-4685-8713-027a2958f8bc" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -30,6 +31,21 @@
       <change afterPath="$PROJECT_DIR$/src/treinandocodjava/Media_exUm.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/treinandocodjava/Switchcase_dia_da_sem.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/treinandocodjava/ex6_ValorEmDolar.java" afterDir="false" />
+=======
+    <list default="true" id="2f531302-1d39-423e-a309-3ba883feb485" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenmatch.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculo/CalculadoraDeTempo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
+>>>>>>> MarieleCaetano/master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,15 +62,21 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="2fmHsl8ck5bKzKZOuR3wYQmc4MJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+=======
+  <component name="ProjectId" id="2gW7ojDFDC7kZtiJo4yhCTN58o4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> MarieleCaetano/master
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -72,6 +94,22 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="treinandocodjava.*" />
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.screenmatch.modelos.Principal" />
+      <module name="screenmatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.screenmatch.modelos.*" />
+>>>>>>> MarieleCaetano/master
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,6 +117,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Ex5JogoDeAdivinhacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="treinandocodjava.Ex5JogoDeAdivinhacao" />
       <module name="Curso alura - primeira aplicacao em java" />
@@ -145,17 +184,30 @@
         <item itemvalue="Application.Ex8_comparacaodeNumeros" />
         <item itemvalue="Application.Ex7_numpositivo_ou_negativo" />
         <item itemvalue="Application.Ex5JogoDeAdivinhacao" />
+=======
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+>>>>>>> MarieleCaetano/master
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="61a0d33d-6d61-4685-8713-027a2958f8bc" name="Changes" comment="" />
       <created>1714399545736</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714399545736</updated>
+=======
+      <changelist id="2f531302-1d39-423e-a309-3ba883feb485" name="Changes" comment="" />
+      <created>1715801668756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715801668756</updated>
+>>>>>>> MarieleCaetano/master
     </task>
     <servers />
   </component>

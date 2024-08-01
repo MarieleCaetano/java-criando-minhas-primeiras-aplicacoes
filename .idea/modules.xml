@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Curso alura - primeira aplicacao em java.iml" filepath="$PROJECT_DIR$/Curso alura - primeira aplicacao em java.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/screenmatch.iml" filepath="$PROJECT_DIR$/screenmatch.iml" />
+>>>>>>> MarieleCaetano/master
     </modules>
   </component>
 </project>
